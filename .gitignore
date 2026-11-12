@@ -1,0 +1,20 @@
+# Dependencies
+node_modules/
+app/node_modules/
+
+# Remotion & Build Outputs
+out/
+dist/
+.cache/
+.freebuff/
+
+# Large reference media & extracted frames
+references/*.mp4
+references/frames/
+
+# System / Editor
+.DS_Store
+Thumbs.db
+*.log
+.vscode/
+.idea/
